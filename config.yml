@@ -1,0 +1,7 @@
+# 1. fill out the config class
+
+mysql:
+  host: 'localhost'
+  user: 'root'
+  password: '11112222'
+  database: 'taskmanager'
